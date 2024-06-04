@@ -2,13 +2,13 @@ CHAPTER 1. BREAD
 
 Recipe 1.1: Basic bread 
 Ingredients:
-- flour
-- salt
+- flour (4 cups)
+- salt (i pinch)
 - water
 - yeast
 Instructions: 
 - mix ingredients 
-- knead for 20 minutes
+- knead for 15  minutes
 - let rise for 1 hour
 - bake at 425 F for 25 minutes 
 
